@@ -1,4 +1,4 @@
-# _Notas sobre investigación reproducible y análisis de datos Reproductibilidad_
+# _Notas sobre investigación reproducible y análisis de datos_
 
 ## *Reproductibilidad*
 
@@ -14,6 +14,6 @@ Con el fin de resolver esta problemática, diferentes organizaciones, como el Co
 ![](https://geoprocesamiento-2020i.github.io/laboratorio-01-markdown/ZiemannEtAlFig1.png)
 
 ## *Bibliografía*
-Bezjak, S., Clyburne-Sherin, A., Conzett, P., Fernandes, P., Görögh, E., Helbig, K., Kramer, B., Labastida, I., Niemeyer, K., Psomopoulos, F., Ross-Hellauer, T., Schneider, R., Tennant, J., Verbakel, E., Brinken, H., & Heller, L. (2018). Open Science Training Handbook. Zenodo. [](https://doi.org/10.5281/ZENODO.1212496)
+Bezjak, S., Clyburne-Sherin, A., Conzett, P., Fernandes, P., Görögh, E., Helbig, K., Kramer, B., Labastida, I., Niemeyer, K., Psomopoulos, F., Ross-Hellauer, T., Schneider, R., Tennant, J., Verbakel, E., Brinken, H., & Heller, L. (2018). Open Science Training Handbook. Zenodo. (https://doi.org/10.5281/ZENODO.1212496)
 
-Ziemann, M., Eren, Y., & El-Osta, A. (2016). Gene name errors are widespread in the scientific literature. Genome Biology, 17(1), 177. [](https://doi.org/10.1186/s13059-016-1044-7)
+Ziemann, M., Eren, Y., & El-Osta, A. (2016). Gene name errors are widespread in the scientific literature. Genome Biology, 17(1), 177. (https://doi.org/10.1186/s13059-016-1044-7)
